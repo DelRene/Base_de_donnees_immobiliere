@@ -2,7 +2,7 @@
 
 CREATE DATABASE laplaceimmo;
 USE laplaceimmo;
-
+ 
 CREATE TABLE commune (
 	id INT NOT NULL PRIMARY KEY,
 	commune VARCHAR(100),
